@@ -4,7 +4,7 @@ An interactive Power BI dashboard combined with a Gemini-powered AI Agent to ana
 
 🔗 **Live Dashboard (Power BI):** [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGI1ZjE5ODEtYTdmMy00YmMzLWE0YjUtMmU4MDMzMGE2MDJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-🔗 **Live App with AI Agent (Streamlit):** [Open App](https://toystoreaidashboard-ve8ur9tgyhb2ey9mjjaqjp.streamlit.app)
+🔗 **Live App with AI Agent (Streamlit):** [Open App](https://toystoreaidashboard-fhfhpnf9jdxucquhpdz9hg.streamlit.app/)
 
 📌 Project Overview
 Toy Store AI Analytics is a Business Intelligence solution developed in Microsoft Power BI to help track and understand an e-commerce toy store's sales, marketing, website funnel, product profitability, and customer/refund behavior. On top of the dashboard, an AI Agent (built with Google Gemini) lets anyone ask plain-language questions about the data and get instant answers, without needing to know SQL or Power BI.
